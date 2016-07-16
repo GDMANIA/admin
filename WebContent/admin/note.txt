@@ -1,0 +1,5 @@
+后台登录页 index.jsp
+后台首页 main.jsp
+	|--头部  common_header.jsp
+	|--左侧  common_left.jsp
+	|--右侧  common_footer.jsp
